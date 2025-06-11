@@ -19,7 +19,7 @@
 - Cookies
 
 ### 🚀 Deployment
-- Render / Vercel / MongoDB Atlas
+- Render / Vercel 
 
 ## ✨ Key Features
 
@@ -27,7 +27,7 @@
 - 🛍️ Browse and filter products  
 - 🛒 Add to cart and manage quantity  
 - 🔐 Protected routes for users  
-- 💳 (Optional) Integrated payment logic or UI placeholders
+- 💳 Integrated payment logic
 
 ## 🔗 Live Links
 
