@@ -10,7 +10,7 @@ integrated payment options.
 - **Deployment**: Render / Vercel / MongoDB Atlas
 
 live link (ADMIN PANEL) --> (https://forever-cart-d886.vercel.app)
-live link (WEBSITE) --> ()
+live link (WEBSITE) --> (https://forever-cart.vercel.app)
 
 ### ✨ Key Features
 - 👤 User Signup/Login with JWT authentication
